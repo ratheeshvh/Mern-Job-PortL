@@ -36,3 +36,4 @@ and NODE_ENV=production if deploying the application.
 ![My Image](frontend/src/images/jobportaledit.png)
 
 ![My Image](frontend/src/images/dashboardjob.png)
+
